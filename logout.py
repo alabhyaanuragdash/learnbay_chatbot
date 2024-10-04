@@ -1,1 +1,2 @@
 print("logout")
+print("hi")
